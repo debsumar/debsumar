@@ -60,12 +60,12 @@
 ---
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debsumar&layout=compact)](https://github.com/debsumar/github-readme-stats)
+
 
 ---
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debsumar&layout=compact)](https://github.com/debsumar/github-readme-stats)
 
 
 
