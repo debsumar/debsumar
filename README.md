@@ -29,6 +29,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 
+[<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/48007406/90662584-2c89ee80-e266-11ea-99df-689c46427768.png" />][typescript]
+
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90660664-d61bb080-e263-11ea-86fe-29c53dadc0ea.png" />][Dart]
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90658045-b931ae00-e260-11ea-9d40-788327b08afa.png" />][Flutter]
@@ -92,3 +94,4 @@
 [java]: https://docs.oracle.com/en/java/
 [Flutter]: https://flutter.dev/docs
 [Dart]: https://dart.dev/
+[typescript]:https://www.typescriptlang.org/
