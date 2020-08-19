@@ -3,18 +3,18 @@
 
 
 
-## I'm a Computer Science Engineer and a web Developer.
+## I'm a a passionate self-taught full stack web developer.
 
 - 🔭 I’m currently working on a Flutter Project.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React JS
 - 👯 I’m looking forwad to learn new technologies in Web Development
 - 🥅 2020 Goals: Contribute more towards Open Source projects
-- ⚡ Fun fact: I love reading articles
+- ⚡ I love reading articles
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 
 [<img align="left" alt="DebanjanSumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="debanjan-sumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -34,6 +34,8 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDB]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90653024-5211fa80-e25c-11ea-8126-fd490bb4b166.png" />][ionic]
 
 <br />
 <br />
@@ -72,3 +74,4 @@
 [MongoDB]: https://docs.mongodb.com/
 [Git]: https://git-scm.com/
 [github]: https://github.com/
+[ionic]: https://ionicframework.com/docs
