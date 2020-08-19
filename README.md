@@ -1,15 +1,15 @@
-### Hi there, I'm Debanjan  👋
+### Hi there, I'm Debanjan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 
 
-## I'm a a passionate self-taught full stack web developer.
+## I'm a passionate self-taught full stack web developer.
 
 - 🔭 I’m currently working on a Flutter Project.
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking forwad to learn new technologies in Web Development
 - 🥅 2020 Goals: Contribute more towards Open Source projects
-- ⚡ I love reading articles
+- ⚡ I :heart: reading articles
 
 
 ### Connect with me:
