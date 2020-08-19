@@ -15,9 +15,10 @@
 ### Connect with me:
 
 
+[<img align="left" alt="debanjan-sumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="DebanjanSumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="debanjan-sumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [<img align="left" alt="imported_.sense | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -70,10 +71,12 @@
 
 
 
+</details>
+
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Debanjan Sumar's GitHub Status" src="https://github-readme-stats.debsumar.vercel.app/api?username=debsumar&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
