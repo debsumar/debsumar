@@ -40,7 +40,7 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90658045-b931ae00-e260-11ea-9d40-788327b08afa.png" />][Flutter]
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90660298-5b529580-e263-11ea-94af-f6a0c1d09de0.png" />][Dart]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90660664-d61bb080-e263-11ea-86fe-29c53dadc0ea.png" />][Dart]
 
 
 
