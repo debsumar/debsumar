@@ -31,10 +31,10 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90660664-d61bb080-e263-11ea-86fe-29c53dadc0ea.png" />][Dart]
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90658045-b931ae00-e260-11ea-9d40-788327b08afa.png" />][Flutter]
 
+
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90653913-69051c80-e25d-11ea-9ec5-b163abc2703a.png" />][ionic]
