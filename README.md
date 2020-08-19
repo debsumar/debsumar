@@ -32,7 +32,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 
 [<img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/48007406/90655269-fac15980-e25e-11ea-9206-85798720cfc7.png" />][MongoDB]
-[<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/48007406/90655097-c8aff780-e25e-11ea-93b9-d40ab48f0ff5" />][Git]
+[<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/48007406/90655566-5ab80000-e25f-11ea-8678-ba084b95e881.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90653913-69051c80-e25d-11ea-9ec5-b163abc2703a.png" />][ionic]
