@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90655903-c8642c00-e25f-11ea-8758-bc2f53ddebdb.png" />][java]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90660820-0cf1c680-e264-11ea-9dbe-f6efbfab37a4.png" />][java]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
