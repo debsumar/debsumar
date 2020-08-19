@@ -24,6 +24,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90655903-c8642c00-e25f-11ea-8758-bc2f53ddebdb.png" />][java]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
@@ -36,6 +37,12 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90653913-69051c80-e25d-11ea-9ec5-b163abc2703a.png" />][ionic]
+
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90658045-b931ae00-e260-11ea-9d40-788327b08afa.png" />][Flutter]
+
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/48007406/90660298-5b529580-e263-11ea-94af-f6a0c1d09de0.png" />][Dart]
+
+
 
 <br />
 <br />
@@ -75,3 +82,6 @@
 [Git]: https://git-scm.com/
 [github]: https://github.com/
 [ionic]: https://ionicframework.com/docs
+[java]: https://docs.oracle.com/en/java/
+[Flutter]: https://flutter.dev/docs
+[Dart]: https://dart.dev/
