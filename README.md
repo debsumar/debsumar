@@ -66,7 +66,7 @@
 [linkedin]: https://linkedin.com/in/debanjan-sumar-390326148/
 [webdevplaylist]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [jsplaylist]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[cssplaylist]: https://developer.mozilla.org/en-US/docs/Web/CSSlist=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[cssplaylist]:https://developer.mozilla.org/en-US/docs/Web/CSS
 [reactplaylist]: https://reactjs.org/
 [node]: https://nodejs.org/en/
 [MongoDB]: https://docs.mongodb.com/
