@@ -3,7 +3,7 @@
 
 
 
-## I'm a passionate self-taught full stack web developer.
+# I'm a passionate self-taught full stack web developer.
 
 - 🔭 I’m currently working on a Flutter Project.
 - 🌱 I’m currently learning React JS
