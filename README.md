@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a Flutter Project.
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking forwad to learn new technologies in Web Development
-- 🥅 2020 Goals: Contribute more towards Open Source projects
+- 🥅 2021 Goals: Contribute more towards Open Source projects
 - ⚡ I :heart: reading articles
 
 
