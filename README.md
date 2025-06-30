@@ -23,12 +23,11 @@ Cloud       AWS Lambda • ECS • Docker • Azure
 ## 📊 Language Distribution
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debsumar&layout=pie&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Language Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debsumar&layout=pie&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Language Distribution" />
 </div>
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debsumar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://debanjans-portfolio.netlify.app/)
 
----
-*Building scalable cross-platform solutions*
