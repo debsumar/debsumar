@@ -1,48 +1,34 @@
-# Hi there, I'm Debanjan Sumar 👋
+# Hi, I'm Debanjan Sumar 👋
 
-## Full Stack Developer | Mobile & Web Development
+> **Full Stack Developer** • 3+ years building scalable mobile & web apps  
+> Currently at **Kare4u Healthcare** delivering SaaS platforms to 100+ customers
 
-Results-oriented Full Stack Developer with 3+ years of experience building scalable, cross-platform mobile and web applications using **Flutter**, **Node.js**, and **AWS**. Currently delivering SaaS platforms used by 100+ customers at Kare4u Healthcare Solutions.
+## 🛠️ Tech Stack
 
-### 🔭 What I'm Currently Working On
-- Building scalable backend APIs using **NestJS**, **PostgreSQL** & **GraphQL**
-- Developing cross-platform mobile applications with **Flutter**
-- Engineering server-driven UI systems for dynamic, real-time applications
-- Cloud-native deployments on **AWS Lambda & ECS**
+```
+Frontend    Flutter • Dart • Ionic • TypeScript • JavaScript
+Backend     Node.js • NestJS • GraphQL • REST APIs
+Database    PostgreSQL • TypeORM • Firebase  
+Cloud       AWS Lambda • ECS • Docker • Azure
+```
 
-### 💻 Technical Expertise
+## 🚀 Featured Projects
 
-**Frontend & Mobile:**
-- Flutter, Dart, Ionic, TypeScript, JavaScript
-- Server-driven UI, Real-time chat systems
-- iOS & Android build and publishing
+| Project | Year | Tech Stack |
+|---------|------|------------|
+| **ActivityPro** | 2022-Present | Flutter, NestJS, AWS, TypeScript |
+| **One Wellbeing** | 2023 | Flutter, REST APIs, Azure |
+| **Sitemaster** | 2021 | Flutter, Node.js, AWS |
 
-**Backend & Cloud:**
-- Node.js, NestJS, REST APIs, GraphQL
-- PostgreSQL, TypeORM, Firebase
-- AWS Cloud (Lambda, ECS), Docker
-- Azure deployment
+## 📊 Language Distribution
 
-**Development Tools:**
-- Git, Docker, SQL databases
-- Real-time features and scalable architectures
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debsumar&layout=pie&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Language Distribution" />
+</div>
 
-### 🚀 Notable Projects
-- **ActivityPro** (2022-Present): Flutter, Ionic, TypeScript, AWS Cloud, NestJS
-- **One Wellbeing** (2023): Flutter, REST APIs, Azure
-- **Ownlife** (2021): Flutter mobile application
-- **Sitemaster** (2021): Flutter, Node.js, AWS Cloud
+## 📫 Let's Connect
 
-### 🎓 Education
-**B.Tech in Computer Science Engineering**  
-Lovely Professional University (2017-2021) - First Class
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-debsumar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/debsumar/)
-
-### 🌱 Interests
-Responsive Design • Clean Architecture • Generative AI • Cross-platform Development
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debsumar/)
 
 ---
-
-*Building scalable solutions that bridge mobile and web technologies*
+*Building scalable cross-platform solutions*
