@@ -1,7 +1,7 @@
 # Hi, I'm Debanjan Sumar 👋
 
 > **Full Stack Developer** • 4+ years building scalable mobile & web apps  
-> Currently at **Kare4u Healthcare** delivering SaaS platforms to 100+ customers
+> Currently at **Activitypro Ltd.** delivering SaaS platforms to 100+ customers
 
 ## 🛠️ Tech Stack
 
