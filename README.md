@@ -1,4 +1,4 @@
-# Hi, I'm Debanjan Sumar 👋
+# Hi, I'm Debanjan 👋
 
 > **Full Stack Developer** • 4+ years building scalable mobile & web apps  
 > Currently at **Activitypro Ltd.** delivering SaaS platforms to 100+ customers
