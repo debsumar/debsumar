@@ -6,8 +6,8 @@
 ## 🛠️ Tech Stack
 
 ```
-Frontend    Flutter • Dart • Ionic • TypeScript • React
-Backend     Node.js • NestJS • GraphQL • REST APIs
+Frontend    Flutter • Dart • Ionic • TypeScript • React • Angular
+Backend     Node.js • NestJS • GraphQL • REST APIs • Express • Supabase
 Database    PostgreSQL • TypeORM • Firebase  
 Cloud       AWS Lambda • ECS • Docker • Azure
 ```
@@ -16,8 +16,9 @@ Cloud       AWS Lambda • ECS • Docker • Azure
 
 | Project | Year | Tech Stack |
 |---------|------|------------|
-| **ActivityPro** | 2022-Present | Flutter, NestJS, AWS, TypeScript |
-| **One Wellbeing** | 2023 | Flutter, REST APIs, Azure |
+| **ActivityPro** | 2022- Present | Flutter, NestJS, AWS, TypeScript, REST, GraphQL |
+| **Complaid AI** | 2025- Present | Angular, Tailwind CSS, REST, WebSocket |
+| **One Wellbeing** | 2023 | Flutter, REST, Azure |
 | **Sitemaster** | 2021 | Flutter, Node, AWS, Nest Js |
 
 ## 📊 Language Distribution
