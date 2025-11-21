@@ -81,13 +81,89 @@
 <br/>
 
 ## 🛠️ Featured Projects
-
 <div align="center">
+
+<style>
+.pulse-container {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 8px;
+}
+.pulse-dot {
+  width: 15px;
+  height: 15px;
+  background-color: #ff4444;
+  border-radius: 50%;
+  position: relative;
+}
+.pulse-dot::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ff4444;
+  border-radius: 50%;
+  animation: pulse-ring 1.5s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+}
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 1; }
+  100% { transform: scale(2.5); opacity: 0; }
+}
+</style>
+
+| **Project** | **Status** | **Role & Tech** | **Year** |
+| :--- | :--- | :--- | :--- |
+| **ActivityPro** <br/> *SaaS Management Platform* | <div class="pulse-container"><div class="pulse-dot"></div> <b>Live</b></div> | 👑 **Full Stack** <br/> `Flutter` `NestJS` `AWS` <br/> `GraphQL` `Postgres` | 2022-Present |
+| **Activitypro Web** <br/> *Sports Management Portal* | <div class="pulse-container"><div class="pulse-dot"></div> <b>Live</b></div> | 🎨 **Frontend Lead** <br/> `Angular` `PrimeNG` `REST` <br/> `GraphQL` `AWS S3` | 2023-Present |
+| **Complaid AI** <br/> *AI-Powered Compliance* | 🟡 **In Dev** | 🤖 **Frontend Lead** <br/> `Angular` `Tailwind` `WebSocket` | 2025-Present |
+| **EasyAIItinerary** <br/> *AI Travel Planner* | 🟢 **Completed** | ✈️ **Frontend Dev** <br/> `React` `Tailwind` `REST API` | 2024 |
+| **Calmi App** <br/> *Wellness Application* | 🟡 **In Dev** | 🧘 **Mobile Dev** <br/> `Flutter` `Dart` `Responsive UI` | 2025 Onwards |
+| **Calmi Web App** <br/> *Wellness Web Portal* | 🟡 **In Dev** | 🌐 **Web Dev** <br/> `React` `TypeScript` `Tailwind` | 2025 Onwards |
+| **One Wellbeing** <br/> *Health Tech Solution* | 🟢 **Completed** | 🏥 **Mobile Dev** <br/> `Flutter` `Azure` `REST` | 2023 |
+| **Sitemaster** <br/> *Construction Tech* | 🟢 **Completed** | 🏗️ **Full Stack** <br/> `Flutter` `Node.js` `AWS Lambda` | 2021 |
+
+</div>
+
+<!-- <div align="center">
+
+<style>
+.pulse-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.pulse-dot {
+  width: 10px;
+  height: 10px;
+  background-color: #ff4444;
+  border-radius: 50%;
+  position: relative;
+}
+.pulse-dot::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ff4444;
+  border-radius: 50%;
+  animation: pulse-ring 1.5s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+}
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 1; }
+  100% { transform: scale(2.5); opacity: 0; }
+}
+</style>
 
 | **Project** | **Year** | **Role & Tech** | **Status** |
 | :--- | :--- | :--- | :--- |
-| **ActivityPro** <br/> *SaaS Management Platform* | 2022-Present | 👑 **Full Stack** <br/> `Flutter` `NestJS` `AWS` <br/> `GraphQL` `Postgres` | 🔴 **Live** |
-| **Activitypro Web** <br/> *Sports Management Portal* | 2023-Present | 🎨 **Frontend Lead** <br/> `Angular` `PrimeNG` `REST` `GraphQL` <br/> `AWS S3` `CloudFront` | 🔴 **Live** |
+| **ActivityPro** <br/> *SaaS Management Platform* | 2022-Present | 👑 **Full Stack** <br/> `Flutter` `NestJS` `AWS` <br/> `GraphQL` `Postgres` | <div class="pulse-container"><div class="pulse-dot"></div> <b>Live</b></div> |
+| **Activitypro Web** <br/> *Sports Management Portal* | 2023-Present | 🎨 **Frontend Lead** <br/> `Angular` `PrimeNG` `REST` `GraphQL` <br/> `AWS S3` `CloudFront` | <div class="pulse-container"><div class="pulse-dot"></div> <b>Live</b></div> |
 | **Complaid AI** <br/> *AI-Powered Compliance* | 2025-Present | 🤖 **Frontend Lead** <br/> `Angular` `Tailwind` `WebSocket` | 🟡 **In Dev** |
 | **EasyAIItinerary** <br/> *AI Travel Planner* | 2024 | ✈️ **Frontend Dev** <br/> `React` `Tailwind` `REST API` | 🟢 **Completed** |
 | **Calmi App** <br/> *Wellness Application* | 2025 Onwards | 🧘 **Mobile Dev** <br/> `Flutter` `Dart` `Responsive UI` | 🟡 **In Dev** |
@@ -95,7 +171,7 @@
 | **One Wellbeing** <br/> *Health Tech Solution* | 2023 | 🏥 **Mobile Dev** <br/> `Flutter` `Azure` `REST` | 🟢 **Completed** |
 | **Sitemaster** <br/> *Construction Tech* | 2021 | 🏗️ **Full Stack** <br/> `Flutter` `Node.js` `AWS Lambda` | 🟢 **Completed** |
 
-</div>
+</div> -->
 
 <br/>
 
