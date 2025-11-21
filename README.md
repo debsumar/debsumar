@@ -24,7 +24,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:cc00cc&height=60&section=header&animation=fadeIn" width="100%" />
 </div>
 
-<h2 align="center" style="margin-top: 0px;">🚀 Tech Stack & Arsenal</h2>
+<h2 align="center" style="margin-top: 0px; margin-bottom: 5px;">🚀 Tech Stack & Arsenal</h2>
 
 <div align="center">
   <!-- Mobile -->
@@ -65,7 +65,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:cc00cc&height=60&section=header&animation=fadeIn" width="100%" />
 </div>
 
-<h2 align="center" style="margin-top: 0px;">🛠️ Featured Projects</h2>
+<h2 align="center" style="margin-top: 0px; margin-bottom: 5px;">🛠️ Featured Projects</h2>
 
 <div align="center">
 
@@ -92,7 +92,7 @@
   <table>
     <tr>
       <td valign="center">
-        <h1 style="margin-top: 0px;">👨‍💻 About Me</h1>
+        <h1 style="margin-top: 0px; margin-bottom: 5px;">👨‍💻 About Me</h1>
         <blockquote>
           I am a passionate <b>Full Stack Developer</b> with <b>4+ years</b> of experience architecting high-performance mobile and web applications. 
           Currently delivering enterprise-grade SaaS solutions at <b>Activitypro Ltd.</b> for 100+ customers. 
@@ -107,7 +107,7 @@
   </table>
 </div>
 
-<h2 align="center" style="margin-top: 0px;">📊 GitHub Analytics</h2>
+<h2 align="center" style="margin-top: 0px; margin-bottom: 5px;">📊 GitHub Analytics</h2>
 
 <div align="center">
   <!-- Custom Purple Neon Theme for Stats -->
@@ -123,7 +123,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/debsumar/debsumar/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Purple Fluid Animation" />
 </div>
 
 <br/>
