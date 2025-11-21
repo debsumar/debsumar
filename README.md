@@ -2,9 +2,7 @@
   
   <br/>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=cc00cc&center=true&vCenter=true&width=600&lines=Architecting+Scalable+SaaS;Flutter+%26+Angular+Specialist;Cloud+Native+Solutions;Turning+Coffee+into+Code;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=cc00cc&center=true&vCenter=true&width=600&lines=Architecting+Scalable+SaaS;Flutter+%26+Angular+Specialist;Cloud+Native+Solutions;Turning+Coffee+into+Code;Open+Source+Contributor" alt="Typing SVG" />
 
   <br/>
 
@@ -26,9 +24,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:cc00cc&height=60&section=header&animation=fadeIn" width="100%" />
 </div>
 
-<br/>
-
-<h2 align="center">🚀 Tech Stack & Arsenal</h2>
+<h2 align="center" style="margin-top: 0px;">🚀 Tech Stack & Arsenal</h2>
 
 <div align="center">
   <!-- Mobile -->
@@ -69,9 +65,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:cc00cc&height=60&section=header&animation=fadeIn" width="100%" />
 </div>
 
-<br/>
-
-<h2 align="center">🛠️ Featured Projects</h2>
+<h2 align="center" style="margin-top: 0px;">🛠️ Featured Projects</h2>
 
 <div align="center">
 
@@ -94,13 +88,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:cc00cc&height=60&section=header&animation=fadeIn" width="100%" />
 </div>
 
-<br/>
-
 <div align="center">
   <table>
     <tr>
       <td valign="center">
-        <h1>👨‍💻 About Me</h1>
+        <h1 style="margin-top: 0px;">👨‍💻 About Me</h1>
         <blockquote>
           I am a passionate <b>Full Stack Developer</b> with <b>4+ years</b> of experience architecting high-performance mobile and web applications. 
           Currently delivering enterprise-grade SaaS solutions at <b>Activitypro Ltd.</b> for 100+ customers. 
@@ -115,9 +107,7 @@
   </table>
 </div>
 
-<br/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center" style="margin-top: 0px;">📊 GitHub Analytics</h2>
 
 <div align="center">
   <!-- Custom Purple Neon Theme for Stats -->
