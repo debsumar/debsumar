@@ -1,73 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Full%20Stack%20Developer&fontSize=30&fontAlignY=35&animation=fadeIn" alt="Header" />
-
+  
   <br/>
-
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Wizardry;Flutter+%26+Angular+Expert;Scalable+Cloud+Architect;Building+SaaS+for+100%2B+Clients" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=cc00cc&center=true&vCenter=true&width=600&lines=Architecting+Scalable+SaaS;Flutter+%26+Angular+Specialist;Cloud+Native+Solutions;Turning+Coffee+into+Code;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
   <br/>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/debsumar/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?logo=briefcase&logoColor=white)](https://debanjans-portfolio.netlify.app/) [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:contact@example.com)
-
+  <!-- Socials with Purple Neon Theme -->
+  <a href="https://linkedin.com/in/debsumar/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=000000&logo=linkedin&logoColor=cc00cc&label=" />
+  </a>
+  <a href="https://debanjans-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=cc00cc" />
+  </a>
+  <a href="mailto:contact@example.com">
+    <img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=cc00cc" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:cc00cc&height=60&section=header&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
 
-> I am a passionate **Full Stack Developer** with **4+ years** of experience architecting high-performance mobile and web applications. Currently delivering enterprise-grade SaaS solutions at **Activitypro Ltd.** for 100+ customers.
-
-<br/>
-
-<h2 align="center" style="margin-bottom:0px;">⚡ Tech Stack & Arsenal</h2>
-
----
+<h2 align="center">🚀 Tech Stack & Arsenal</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Mobile+Dev+%E2%80%A2+Web+Dev+%E2%80%A2+Cloud+Ops;Flutter+%E2%80%A2+Angular+%E2%80%A2+React;NestJS+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;AWS+%E2%80%A2+Docker+%E2%80%A2+Azure" />
-
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 
   <br/>
 
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <br/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  
+
   <br/>
 
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
+  <!-- Cloud & DB -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
-
----
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:cc00cc&height=60&section=header&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
 
-## 🛠️ Featured Projects
+<h2 align="center">🛠️ Featured Projects</h2>
+
 <div align="center">
 
 | **Project** | **Status** | **Role & Tech** | **Year** |
@@ -83,30 +88,56 @@
 
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:cc00cc&height=60&section=header&animation=fadeIn" width="100%" />
+</div>
 
 <br/>
 
-## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debsumar&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak" />
+  <table>
+    <tr>
+      <td valign="center">
+        <h1>👨‍💻 About Me</h1>
+        <blockquote>
+          I am a passionate <b>Full Stack Developer</b> with <b>4+ years</b> of experience architecting high-performance mobile and web applications. 
+          Currently delivering enterprise-grade SaaS solutions at <b>Activitypro Ltd.</b> for 100+ customers. 
+          I thrive on complex challenges and building scalable, user-centric products.
+        </blockquote>
+      </td>
+      <td valign="center">
+        <!-- Purple Neon Gif -->
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Purple Retro Gif" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <!-- Custom Purple Neon Theme for Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=debsumar&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=cc00cc&text_color=cc00cc&icon_color=cc00cc&include_all_commits=true&disable_animations=false" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debsumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=cc00cc&text_color=cc00cc&include_all_commits=true&count_private=true&disable_animations=false" height="150" alt="Languages" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=debsumar&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debsumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" height="150" alt="Languages" />
-</div>
-
----
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <!-- Streak Stats with Purple Neon -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debsumar&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&ring=cc00cc&fire=cc00cc&currStreakLabel=cc00cc" alt="Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://github.com/debsumar/debsumar/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:cc00cc&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
