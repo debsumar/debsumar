@@ -1,14 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Debanjan&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=60" alt="Header" />
-  
-  <br/>
-  
-  ### 🚀 Transforming Ideas into Scalable SaaS & Mobile Experiences
+  <!-- Minimalist Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Full%20Stack%20Developer&fontSize=30&fontAlignY=35&animation=fadeIn" alt="Header" />
 
   <br/>
 
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Wizardry;Flutter+%26+Angular+Expert;Scalable+Cloud+Architect;Building+SaaS+for+100%2B+Clients" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Socials -->
   <a href="https://linkedin.com/in/debsumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
   <a href="https://debanjans-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" />
@@ -21,43 +26,102 @@
 
 <br/>
 
-> 👨‍💻 **About Me:** I am a passionate **Full Stack Developer** with **4+ years** of experience architecting high-performance mobile and web applications. Currently delivering enterprise-grade SaaS solutions at **Activitypro Ltd.** for 100+ customers.
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
+<!-- Animated Divider -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</div>
 
-| **Mobile & Frontend** | **Backend & Cloud** | **Database & Tools** |
-| :---: | :---: | :---: |
-| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) <br/> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) <br/> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br/> ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) <br/> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) <br/> ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-fe0000?style=for-the-badge&logo=typeorm&logoColor=white) |
+<br/>
+
+> I am a passionate **Full Stack Developer** with **4+ years** of experience architecting high-performance mobile and web applications. Currently delivering enterprise-grade SaaS solutions at **Activitypro Ltd.** for 100+ customers.
+
+<br/>
+
+<!-- Tech Stack Section -->
+<h2 align="center" style="margin-bottom:0px;">⚡ Tech Stack & Arsenal</h2>
+<div align="center">
+  <!-- Dynamic Stack Typing -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Mobile+Dev+%E2%80%A2+Web+Dev+%E2%80%A2+Cloud+Ops;Flutter+%E2%80%A2+Angular+%E2%80%A2+React;NestJS+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;AWS+%E2%80%A2+Docker+%E2%80%A2+Azure" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <br/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  
+  <br/>
+
+  <!-- Cloud & Tools -->
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
 
 <br/>
 
-## ⚡ Featured Projects
-
-| Project | Role & Stack | Status |
-| :--- | :--- | :--- |
-| **ActivityPro** <br/> *SaaS Management Platform* | 🏗️ **Lead Architect** <br/> `Flutter` `NestJS` `AWS` `GraphQL` | 🔴 **Live** (2022-Present) |
-| **Activitypro Web** <br/> *Sports Management Portal* | 💻 **Frontend Lead** <br/> `Angular` `PrimeNG` `REST` `GraphQL` <br/> `AWS S3` `CloudFront` | 🔴 **Live** (2023-Present) |
-| **Complaid AI** <br/> *AI-Powered Compliance* | 🤖 **Frontend Lead** <br/> `Angular` `Tailwind` `WebSocket` | 🟡 **In Dev** (2025) |
-| **One Wellbeing** <br/> *Health Tech Solution* | 🏥 **Mobile Dev** <br/> `Flutter` `Azure` `REST` | 🟢 **Completed** (2023) |
-| **Sitemaster** <br/> *Construction Tech* | 📱 **Full Stack** <br/> `Flutter` `Node.js` `AWS Lambda` | 🟢 **Completed** (2021) |
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</div>
 
 <br/>
 
-## 📈 GitHub Stats
+## 🛠️ Featured Projects
 
 <div align="center">
+
+| **Project** | **Year** | **Role & Tech** | **Status** |
+| :--- | :--- | :--- | :--- |
+| **ActivityPro** <br/> *SaaS Management Platform* | 2022-Present | 👑 **Full Stack** <br/> `Flutter` `NestJS` `AWS` <br/> `GraphQL` `Postgres` | 🔴 **Live** |
+| **Activitypro Web** <br/> *Sports Management Portal* | 2023-Present | 🎨 **Frontend Lead** <br/> `Angular` `PrimeNG` `REST` `GraphQL` <br/> `AWS S3` `CloudFront` | 🔴 **Live** |
+| **Complaid AI** <br/> *AI-Powered Compliance* | 2025-Present | 🤖 **Frontend Lead** <br/> `Angular` `Tailwind` `WebSocket` | 🟡 **In Dev** |
+| **EasyAIItinerary** <br/> *AI Travel Planner* | 2024 | ✈️ **Frontend Dev** <br/> `React` `Tailwind` `REST API` | 🟢 **Completed** |
+| **Calmi App** <br/> *Wellness Application* | 2025 Onwards | 🧘 **Mobile Dev** <br/> `Flutter` `Dart` `Responsive UI` | 🟡 **In Dev** |
+| **Calmi Web App** <br/> *Wellness Web Portal* | 2025 Onwards | 🌐 **Web Dev** <br/> `React` `TypeScript` `Tailwind` | 🟡 **In Dev** |
+| **One Wellbeing** <br/> *Health Tech Solution* | 2023 | 🏥 **Mobile Dev** <br/> `Flutter` `Azure` `REST` | 🟢 **Completed** |
+| **Sitemaster** <br/> *Construction Tech* | 2021 | 🏗️ **Full Stack** <br/> `Flutter` `Node.js` `AWS Lambda` | 🟢 **Completed** |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debsumar&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak" />
+  
+  <br/><br/>
+  
+  <!-- Main Stats & Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=debsumar&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debsumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" height="150" alt="Languages" />
 </div>
 
 <br/>
 
+<!-- Snake Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<br/>
+
+<!-- Waving Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
